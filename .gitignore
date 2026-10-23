@@ -1,0 +1,15 @@
+# Object files
+*.o
+
+# Executables
+mysh
+
+# History file
+mysh_history.txt
+
+# Temporary test files
+t_*.txt
+*.tmp
+
+# Shared library symlink if present locally
+libreadline.so
